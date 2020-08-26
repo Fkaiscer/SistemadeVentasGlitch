@@ -1,0 +1,12 @@
+  <footer>
+
+
+                <div class="sociales" id="barra">
+                    <a href="https://mail.google.com/" class="gmail"><i class="glyphicon glyphicon-envelope"></i></a>
+                    <a href="https://web.facebook.com/GlitchRyA/?_rdc=1&_rdr" class="facebook"><i class="fa fa-facebook"></i></a>
+                    <a href="https://mail.google.com/" class="telefono"><i class="fa fa-phone"></i></a>
+                    <a href="https://mail.google.com/" class="google"><i class="fa fa-google-plus"></i></a>
+
+                </div>
+
+            </footer>

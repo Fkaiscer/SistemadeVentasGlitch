@@ -1,0 +1,20 @@
+<nav aria-label="Page navigation example" align="center">
+    <ul class="pagination">
+        <li class="page-item">
+            <a class="page-link" href="pagina3.jsp" aria-label="Previous">
+                <span aria-hidden="true">&laquo;</span>
+            </a>
+        </li>
+        <li class="active"><a href="index.jsp" class="page-link" href="index.jsp">1</a></li>
+        <li class="page-item"><a   href="pagina2.jsp"class="page-link" href="pagina2.jsp">2</a></li>
+        <li class="page-item"><a   href="pagina3.jsp"  class="page-link" href="pagina3.jsp">3</a></li>
+        <li class="page-item">
+            <a class="page-link" href="pagina2.jsp" aria-label="Next">
+                <span aria-hidden="true">&raquo;</span>
+            </a>
+        </li>
+    </ul>
+</nav>
+
+
+
