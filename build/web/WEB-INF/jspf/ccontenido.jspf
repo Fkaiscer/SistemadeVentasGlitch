@@ -1,0 +1,107 @@
+  
+<div class="container">    
+    <div class="row">
+        <div class="col-sm-4">
+            <div class="panel panel-primary">
+                <div class="panel-heading">DESCUENTO TODOS LOS DIAS</div>
+                <a class="btn btn-primary" id="ima1" data-toggle="collapse" href="#multiCollapseExample1" role="button" aria-expanded="false" aria-controls="multiCollapseExample1"><div class="panel-body"><img onmouseout="this.src='RESOURCES/imagenes/imagen17.png';" onmouseover="this.src='RESOURCES/imagenes/imagen3.jpeg';" src='RESOURCES/imagenes/imagen17.png' class="img-responsive" style="width:100%" alt="Image"></div></a>
+                <div class="row">
+                    <div class="col">
+
+                        <div class="collapse multi-collapse" id="multiCollapseExample1">
+                            <div class="card card-body"align="center" >
+                                Anillos negros con bonito estampado de coronas
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-4">
+            <div class="panel panel-primary">
+                <div class="panel-heading">DESCUENTO TODOS LOS DIAS</div>
+                <a class="btn btn-primary" id="ima1" data-toggle="collapse" href="#multiCollapseExample2" role="button" aria-expanded="false" aria-controls="multiCollapseExample2"><div class="panel-body"><img onmouseout="this.src='RESOURCES/imagenes/imagen27.png';" onmouseover="this.src='RESOURCES/imagenes/imagen24.png';" src='RESOURCES/imagenes/imagen27.png' class="img-responsive" style="width:100%" alt="Image"></div></a>
+                <div class="row">
+                    <div class="col">
+                        <div class="collapse multi-collapse" id="multiCollapseExample2">
+                            <div class="card card-body"align="center" >
+                                Sortijas plateadas para ti y tu pareja
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="col-sm-4">
+            <div class="panel panel-primary">
+                <div class="panel-heading">DESCUENTO TODOS LOS DIAS</div>
+                <a class="btn btn-primary" id="ima1" data-toggle="collapse" href="#multiCollapseExample3" role="button" aria-expanded="false" aria-controls="multiCollapseExample3"><div class="panel-body"><img onmouseout="this.src='RESOURCES/imagenes/imagen38.png';" onmouseover="this.src='RESOURCES/imagenes/imagen34.png';" src='RESOURCES/imagenes/imagen38.png' class="img-responsive" style="width:100%" alt="Image"></div></a>
+                <div class="row">
+                    <div class="col">
+                        <div class="collapse multi-collapse" id="multiCollapseExample3">
+                            <div class="card card-body"align="center" >
+                                Brazalete oscuro perfecto para ti
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><br>
+
+
+<div class="container">    
+    <div class="row">
+        <div class="col-sm-4">
+            <div class="panel panel-primary">
+                <div class="panel-heading">DESCUENTO TODOS LOS DIAS</div>
+                <a class="btn btn-primary" id="ima1" data-toggle="collapse" href="#multiCollapseExample4" role="button" aria-expanded="false" aria-controls="multiCollapseExample4"><div class="panel-body"><img onmouseout="this.src='RESOURCES/imagenes/imagen39.png';" onmouseover="this.src='RESOURCES/imagenes/imagen36.png';" src='RESOURCES/imagenes/imagen39.png' class="img-responsive" style="width:100%" alt="Image"></div></a>
+                <div class="row">
+                    <div class="col">
+                        <div class="collapse multi-collapse" id="multiCollapseExample4">
+                            <div class="card card-body"align="center" >
+                                Lindo brazalete de color negro con una corona en el medio
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="panel panel-primary">
+                <div class="panel-heading">DESCUENTO TODOS LOS DIAS</div>
+                <a class="btn btn-primary" id="ima1" data-toggle="collapse" href="#multiCollapseExample5" role="button" aria-expanded="false" aria-controls="multiCollapseExample5"><div class="panel-body"><img onmouseout="this.src='RESOURCES/imagenes/imagen45.png';" onmouseover="this.src='RESOURCES/imagenes/imagen44_1.png';" src='RESOURCES/imagenes/imagen45.png' class="img-responsive" style="width:100%" alt="Image"></div></a>
+                <div class="row">
+                    <div class="col">
+                        <div class="collapse multi-collapse" id="multiCollapseExample5">
+                            <div class="card card-body"align="center" >
+                                Hermoso brazalete negro doble
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="panel panel-primary">
+                <div class="panel-heading">DESCUENTO TODOS LOS DIAS</div>
+                <a class="btn btn-primary" id="ima1" data-toggle="collapse" href="#multiCollapseExample6" role="button" aria-expanded="false" aria-controls="multiCollapseExample6"><div class="panel-body"><img onmouseout="this.src='RESOURCES/imagenes/imagen40.png';" onmouseover="this.src='RESOURCES/imagenes/imagen9.jpeg';" src='RESOURCES/imagenes/imagen40.png' class="img-responsive" style="width:100%" alt="Image"></div></a>
+                <div class="row">
+                    <div class="col">
+                        <div class="collapse multi-collapse" id="multiCollapseExample6">
+                            <div class="card card-body"align="center" >
+                                Brazalete con tonos pasteles y dijes bañados en oro
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,7 @@
+<link href="<%=request.getContextPath()%>/RESOURCES/CSS/style.css" rel="stylesheet" type="text/css"/>
+<link href="https://fonts.googleapis.com/css?family=Josefin+Sans|Montez|Pathway+Gothic+One" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+ <link href="https://fonts.googleapis.com/css?family=Josefin+Sans|Montez|Pathway+Gothic+One" rel="stylesheet">
+ 
+ <link href="<%=request.getContextPath()%>/RESOURCES/CSS/stylelog.css" rel="stylesheet" type="text/css"/>
