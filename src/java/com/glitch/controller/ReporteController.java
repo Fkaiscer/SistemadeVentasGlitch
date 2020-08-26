@@ -41,7 +41,7 @@ public class ReporteController extends HttpServlet {
             request.getSession().setAttribute("error2", mensajeError);
             request.getRequestDispatcher("error2.jsp").forward(request, response);
         }else{
-            ReporteDTO rep = new ReporteDTO() ;
+            ReporteDTO rep = new ReporteDTO();
            rep.setDni(dni);
         rep.setNombre(nombre);
       rep.setCelular(celular);
